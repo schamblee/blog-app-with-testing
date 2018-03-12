@@ -8,4 +8,4 @@ deploy:
     secure: LSnU3neQaMr6chyfD9kgsyapA/xldaK9mfn2dDyhWrXDs69MIE6a4I77bwh/3w1wBWh/MKkWqeKvYJl0oJFolQde4Bw3FVuazCu522kKnonrs9QMvb+gS1HhAK15Zfv6HLa3+1jUh0uQYZ+H6tTn65a6ebwEJPvoeORpV3E2UAZ0QTA2ITENusudJwvZgCY1mi7juU/ST59rcCV+zTkK+RBASEEqYEPtr9gLlsrU/45bvnh6b6Tbfbj4JFCIQRNFUkyLBpplpMIS4/IyxmIHjgC/LzVVo6Uhq+84odY/iFYXmeC21oiBXThuVdPKfKVdKBH0pDQb+yTEDUxqoKzLME3UBWZDGTGekvgWHsqgp74C51CcupQRWQP1Of+5CBT9inbMUsUOzwknFP06miimQtQEtNaF8q0fLiez1qwVjSnIjRG4/7aP8b63oXUQBP1LKu1jUXznNwvPK+Jh16u0beqmZwWwIcxBZoxe+oFxOINMMn+xe8zaStplSFVz4K2Nl0EaQq2nt43Kt0zJ0q8CvsM1TU+47BnZDQjzevcfl6v04JILUNatpdQfx/VwU2DhDH4UBGw/A8AfsdXX7yrQAY4odLxd8nWX9vnw9XOHgd34eKEdLyItPSIFvAafpDEvGvfBhI3vpvRWUmavziexQ2xa0ig+1u1cyhvc2Kzi728=
   app: desolate-cliffs-64779
   on:
-    repo: schamblee/blog-app-with-testing
+    repo: schamblee/blog-app-with-testing 
