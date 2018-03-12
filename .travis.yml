@@ -9,3 +9,4 @@ deploy:
   app: desolate-cliffs-64779
   on:
     repo: schamblee/blog-app-with-testing
+    branch: master
