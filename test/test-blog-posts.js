@@ -240,4 +240,4 @@ describe('blog posts API resource', function () {
         });
     });
   });
-}); 
+});
